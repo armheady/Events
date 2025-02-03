@@ -1,5 +1,4 @@
-# JV-Events-Platform-Backend
-
+# JV-Events-Platform
 ## Description
 This is the backend for the JV-Events-Platform. It is built with Java Spring Boot (backend) and Kotlin (frontend). It is also connected to a postgresql database.
 
